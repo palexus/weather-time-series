@@ -1,2 +1,15 @@
 # weather-time-series
-This will be uploaded soon.
+
+Here we use a SARIMA model to predict the weather in Berlin.
+
+
+Create a new environment and install the requirements, e.g.
+
+`conda create -n forecasting -c conda-forge scikit-learn`
+
+`conda activate forecasting`
+
+`pip install -r requirements.txt`
+
+
+Install jupyter lab and enjoy the file.
