@@ -1,7 +1,5 @@
 pandas
-scipy
 statsmodels
 pmdarima
 seaborn
 matplotlib
-numpy
