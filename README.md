@@ -12,4 +12,6 @@ Create a new environment and install the requirements, e.g.
 `pip install -r requirements.txt`
 
 
-Install jupyter lab and enjoy the file.
+Install jupyter lab for this environement if neccessary and enjoy the file.
+
+`conda install jupyterlab`
